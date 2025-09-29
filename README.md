@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**sinatpa1717/sinatpa1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# سلام 👋 من سینا هستم  
 
-Here are some ideas to get you started:
+💻 برنامه‌نویس پایتون و علاقه‌مند به هوش مصنوعی  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 مهارت‌ها
+- Python, Django
+- HTML, CSS
+- Git & GitHub
+
+## 📂 پروژه‌های مهم
+- [ماشین‌حساب پایتون](https://github.com/sina-dev/python-calculator)
+- [چت‌بات هوش مصنوعی](https://github.com/sina-dev/ai-chatbot)
+
+## 📊 آمار
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-dev&show_icons=true&theme=radical)
+
+## 📫 راه ارتباطی
+- ایمیل: sina@example.com  
+- لینکدین: [linkedin.com/in/sina](https://linkedin.com/in/sina)
