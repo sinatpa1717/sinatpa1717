@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Sina  
 
 💻 Python & Django Developer  
-⚡ Specialized in Back-End Development with **Django REST Framework (DRF)**  
-🎯 My goal is to improve my backend skills and work on professional projects.  
+⚡ Interested in Back-End Development with Django REST Framework (DRF)  
+🎯 Currently learning and practicing to become a better backend developer.  
+
 
 ---
 
