@@ -38,3 +38,8 @@
 
 ## 🎯 Goal
 I’m passionate about **Back-End Development**, building real-world projects, and growing into a professional developer.  
+
+
+
+
+https://pin.it/4vp22pGsp
