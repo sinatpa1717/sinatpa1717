@@ -26,8 +26,3 @@
 ---
 ## 🎯 Goal
 I’m passionate about **Back-End Development**, building real-world projects, and growing into a professional developer.  
-
-
-
-
-برام ریدمی گیت هابمو قشنگ تر بکن icon ها و غیره رو
