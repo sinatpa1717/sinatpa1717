@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sunset pixel art.gif" alt="Banner" width="100%" height="50" />
+  <img src="./sunset pixel art.gif" alt="Banner" width="100%" height="80" />
 </p>
 
 # 👋 Hi there, I'm Sina
