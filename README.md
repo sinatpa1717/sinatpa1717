@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="./sunset pixel art.gif" alt="Banner" width="100%" />
+</p>
+
 # 👋 Hi there, I'm Sina
 
-💻 **Python & Django Developer**  
-⚡ Interested in **Back-End Development** with **Django REST Framework (DRF)**  
-🎯 Currently learning and practicing to become a better backend developer  
+💻 **Python & Django Developer**
+⚡ Interested in **Back-End Development** with **Django REST Framework (DRF)**
+🎯 Currently learning and practicing to become a better backend developer
 
 ---
 
@@ -22,24 +26,26 @@
 ---
 
 ## 📂 Featured Projects
-🔹 **File Manager**  
-🔹 **Django REST Framework Sample**  
+
+🔹 **File Manager**
+🔹 **Django REST Framework Sample**
 
 ---
 
-
 ## 📊 GitHub Stats
-![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinatpa1717&show_icons=true&theme=radical)
 
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinatpa1717\&show_icons=true\&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** [sinatpa1717@gmail.com](mailto:sinatpa1717@gmail.com)  
-- 📷 **Instagram:** [@sina.tpa](https://instagram.com/sina.tpa)
+
+* 📧 **Email:** [sinatpa1717@gmail.com](mailto:sinatpa1717@gmail.com)
+* 📷 **Instagram:** [@sina.tpa](https://instagram.com/sina.tpa)
 
 ---
 
 ## 🎯 Goal
-I'm passionate about **Back-End Development**, building **real-world projects**,  
+
+I'm passionate about **Back-End Development**, building **real-world projects**,
 and growing into a **professional developer**.
