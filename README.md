@@ -24,7 +24,10 @@
 ## 📂 Featured Projects
 
 🔹 **File Manager**
+https://github.com/sinatpa1717/file-Manager-.git
+
 🔹 **Django REST Framework Sample**
+https://github.com/sinatpa1717/Web_DRF_django.git 
 
 ---
 
