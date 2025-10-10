@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Sina
+#  Hi there, I'm Sina
 
-💻 **Python & Django Developer**
-⚡ Interested in **Back-End Development** with **Django REST Framework (DRF)**
-🎯 Currently learning and practicing to become a better backend developer
+ **Python & Django Developer**
+ Interested in **Back-End Development** with **Django REST Framework (DRF)**
+ Currently learning and practicing to become a better backend developer
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 🔹 **File Manager**
 https://github.com/sinatpa1717/file-Manager-.git
@@ -31,20 +31,20 @@ https://github.com/sinatpa1717/Web_DRF_django.git
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinatpa1717\&show_icons=true\&theme=radical)
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 * 📧 **Email:** [sinatpa1717@gmail.com](mailto:sinatpa1717@gmail.com)
 * 📷 **Instagram:** [@sina.tpa](https://instagram.com/sina.tpa)
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 I'm passionate about **Back-End Development**, building **real-world projects**,
 and growing into a **professional developer**.
